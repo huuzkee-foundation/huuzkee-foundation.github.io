@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Huuzkee – Open Source Platform for Distributed Services"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "aaa-wide-05.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'https://huuzkee-foundation.github.io/blog/'
