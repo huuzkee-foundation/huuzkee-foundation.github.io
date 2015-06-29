@@ -5,7 +5,7 @@ meta_title: "Huuzkee Theme Changelog"
 subheadline: "Huuzkee Theme Changelog"
 teaser: "History and changelog of Huuzkee Theme"
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth: "aaa-wide-07.jpg"
 permalink: "/changelog/"
 ---
 2015-06-29 // Version 1.3
