@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "Getting Started"
 subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+teaser: "This step-by-step guide helps you to customize Huuzkee to your needs."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/getting-started/"
@@ -16,7 +16,7 @@ permalink: "/getting-started/"
 6. Open `_data/services.yml` and customize links in the footer.
 7. Open `_data/network.yml` and customize links in the footer.
 8. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-9. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+9. [Read the documentation][1] to check out all features of *Huuzkee*.
 10. Make it yours and add your own content.
 
 <a class="radius button small" href="{{ site.url }}/documentation/">Check out the documentation for all the tricks ›</a>

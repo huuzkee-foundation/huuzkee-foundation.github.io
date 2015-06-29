@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Change is good!"
-meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "History and changelog of Feeling Responsive Theme"
+meta_title: "Huuzkee Theme Changelog"
+subheadline: "Huuzkee Theme Changelog"
+teaser: "History and changelog of Huuzkee Theme"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
@@ -29,7 +29,7 @@ permalink: "/changelog/"
 :   Added [Foundation Reveal](http://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
 
 2015-02-26 // Version 1.0
-:   OK. Let's try it. Here is *Feeling Responsive* Version 1.0, with a shiny video.
+:   OK. Let's try it. Here is *Huuzkee* Version 1.0, with a shiny video.
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
@@ -38,7 +38,7 @@ permalink: "/changelog/"
 :   Added support for Google Analtics. Added `_include/next-previous-post-in-category.html` to generate links from one post in a category to another post in that same category. Example at the bottom of [Grid & Colors]({{ site.url }}/design/grid/#bottom). Added `noindex`-variable for search engine optimization ([read more](https://support.google.com/webmasters/answer/93710?hl=en)). Changed code for breadcrumb. Added [Improve-Content-Include]({{ site.url }}/documentation/#improvecontenthtml).
 
 2015-02-19 // Version 0.99
-:   Yes! Now *Feeling Responsive* uses the built-in sass-support by Jekyll. Open `_sass` and dig deeper into customizing this theme using your colors, typography and so on...
+:   Yes! Now *Huuzkee* uses the built-in sass-support by Jekyll. Open `_sass` and dig deeper into customizing this theme using your colors, typography and so on...
 
 2015-02-18 // Version 0.98
 :   Now with author-support and [Schema.org microdata](http://schema.org). Edit author(s) in `authors.yml` and use it via front matter like `author: your_author_name`. Added [Disqus-comments]({{ site.url}}/design/comments/#comments) to the mix.
@@ -62,7 +62,7 @@ permalink: "/changelog/"
 :   A new polished version, with a stronger and better color scheme. [Have a look ›]({{ site.url }}/design/grid/#color-scheme-and-colors-codes). Added foundation `.scss-files` to `assets/scss/` for savety.
 
 2014-10-08 // Version 0.91
-:   Moved images folder from `assets/img/` to `images` to fasten access to folder. Moved all pages to `pages/`-folder for better organization. Added language-functionality. *Feeling Responsive* is now translation ready.
+:   Moved images folder from `assets/img/` to `images` to fasten access to folder. Moved all pages to `pages/`-folder for better organization. Added language-functionality. *Huuzkee* is now translation ready.
 
 2014-09-21 // Version 0.9
 :   Optimized code, tweaked CSS, added images, deleted `header: "no"` from front matter (because it not necessary), added drafts to the new `_drafts`-folder to begin posts and pages faster and enhanced the documentation. Huh, 1.0 I am coming.
@@ -77,13 +77,13 @@ permalink: "/changelog/"
 :   Finally the [blogpage][1] has pagination and an [archive for all blog-posts][2] using the [foundation accordion][3].
 
 2014-08-22 // Version 0.5
-:   Better typograpyh, extended [documentation]({{ site.url}}/documentation/) and little subtle css-things to make *Feeling Responsive* a little better.
+:   Better typograpyh, extended [documentation]({{ site.url}}/documentation/) and little subtle css-things to make *Huuzkee* a little better.
 
 2014-08-17 // Version 0.4
-:   First beta release of »Feeling Responsive« with the current jekyll templates.
+:   First beta release of »Huuzkee« with the current jekyll templates.
 
 2014-08-17 // Version 0.3
-:   First release – only *HTML-Version* – of »Feeling Responsive« on Github-Pages with some hickups.
+:   First release – only *HTML-Version* – of »Huuzkee« on Github-Pages with some hickups.
 
 2014-07-26 // Version 0.2
 :   Updated Navigation & Social Media-Configuration via custom data in `_data`
